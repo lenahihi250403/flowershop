@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+*{font-family: 'Rubik', sans-serif;}
+.top{height: 90px; 
+background: #F5C0C1; 
+}
+
+.slider{ position:relative;
+height:750px;
+}
+
+.content-sd{ position: absolute;
+	top:350px;
+	left:15%;
+	color:aliceblue
+}
+
+.section01{height: 840px;
+}
+.carousel-inner img{width:100%
+
+}
+.section02{ overflow:hidden}
+.banner02{background-image: url(  "../img/virginia-lackinger-JV0y2YgXJcY-unsplash.jpg");
+	background-repeat:no-repeat
+
+}
